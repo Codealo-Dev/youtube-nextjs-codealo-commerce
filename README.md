@@ -6,6 +6,10 @@ Aquí puedes encontrar la lista de contenido y los videos publicados.
 
 ### Videos
 
+## Documentación de API
+
+[Documentación en Notion](https://www.notion.so/codealodev/Codealo-Commerce-API-Docs-8a648b5f6f774e9eb87b7b5e729e3901)
+
 ### Setup
 
 Aquí dejamos las instrucciones para crear configurar la aplicación desde 0 utilizando tus conocimientos de la consola.
@@ -78,3 +82,5 @@ Debes de ser presentado con la aplicación base.
 
 
 ### Ayuda
+
+Si necesita ayuda o tienes algun comentario puedes enviar un email a johnnie@codealo.dev
