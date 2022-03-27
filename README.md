@@ -22,14 +22,14 @@ npx create-next-app@latest --ts commerce
 
 2. Copiar codigo a carpeta local y borrar carpeta de `commerce`
 
-** Linux / macOS **
+**Linux / macOS**
 
 ```bash
 cp -a ./commerce/. ./
 rm -r commerce
 ```
 
-** PowerShell **
+**PowerShell**
 
 ```powershell
 Get-ChildItem -Path ".\commerce\*" -Recurse | Move-Item -Destination ".\"
